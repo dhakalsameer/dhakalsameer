@@ -10,29 +10,21 @@
 
 ---
 
+## 🧩 Featured Projects
 
+Here are a few of my favorite projects that demonstrate my full-stack and backend development skills:
 
-\## 🚀 Featured Projects
+[![📰 PHP Blog Project](https://img.shields.io/badge/📰%20PHP_Blog_System-PHP%2C%20MySQL%2C%20Bootstrap-orange?style=for-the-badge)](https://github.com/dhakalsameer/projectII_php_blog)
+> A full-featured **blog CMS** with CRUD, authentication, and category management — built using **PHP**, **MySQL**, and **Bootstrap**.
 
+[![📅 Google Calendar Clone](https://img.shields.io/badge/📅%20Google_Calendar_Clone-PHP%2C%20JS%2C%20MySQL-blue?style=for-the-badge)](https://github.com/dhakalsameer/Google-Clone)
+> A pure **Google Calendar clone** built from scratch using **vanilla JavaScript**, **PHP**, and **MySQL**, with event scheduling and dynamic UI.
 
-
-\### 📰 \[PHP Blog Project](https://github.com/dhakalsameer/projectII\_php\_blog)
-
-A dynamic \*\*Blog Management System\*\* built with \*\*PHP\*\*, \*\*MySQL\*\*, and \*\*Bootstrap\*\*.  
-
-Includes authentication, CRUD operations, and a clean responsive UI — perfect for portfolios.
-
-
-
-\### 📅 \[Google Calendar Clone](https://github.com/dhakalsameer/Google-Clone)
-
-A complete \*\*Google Calendar Clone\*\* built from scratch using \*\*PHP\*\*, \*\*MySQL\*\*, \*\*JavaScript\*\*, \*\*HTML\*\*, and \*\*CSS\*\* — with no external frameworks.  
-
-Features include event creation, dynamic scheduling, and responsive UI.
-
-
+[![🧠 Portfolio Projects](https://img.shields.io/badge/🧠%20More_Projects_on_GitHub-Explore%20My%20Repos-brightgreen?style=for-the-badge)](https://github.com/dhakalsameer?tab=repositories)
+> Explore my other experiments, assignments, and backend prototypes on GitHub.
 
 ---
+
 
 
 
