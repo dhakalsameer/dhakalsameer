@@ -1,4 +1,4 @@
-\# 👋 Hey there, I'm Sami Dhakal
+\# 👋 Hey there, I'm Sameer Dhakal
 
 
 
@@ -99,6 +99,22 @@ Features include event creation, dynamic scheduling, and responsive UI.
 
 
 ⭐ \*"Code, connect, and build — one block at a time."\*
+
+
+---
+
+## 📊 GitHub Stats & Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dhakalsameer&show_icons=true&theme=tokyonight&hide_border=true" height="165px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhakalsameer&layout=compact&theme=tokyonight&hide_border=true" height="165px"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=dhakalsameer&theme=tokyonight&hide_border=true" height="165px"/>
+</p>
+
+---
 
 
 
