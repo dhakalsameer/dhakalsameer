@@ -13,6 +13,10 @@ Here are a few of my favorite projects that demonstrate my full-stack and backen
 
 A full-featured **Django-based web app** that allows users to **create, update, and manage reservations** with authentication and modern UI.
 
+![Made with Python](https://img.shields.io/badge/Made%20with-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Built with Django](https://img.shields.io/badge/Built%20with-Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Deployed on Render](https://img.shields.io/badge/Deployed%20on-Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
+
 🔗 **Live Demo:** [django-reservation-system.onrender.com](https://django-reservation-system.onrender.com)  
 💻 **Repository:** [dhakalsameer/django_reservation_system](https://github.com/dhakalsameer/django_reservation_system)
 
