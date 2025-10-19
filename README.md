@@ -9,6 +9,29 @@
 
 Here are a few of my favorite projects that demonstrate my full-stack and backend development skills:
 
+## 🏨 Django Reservation System
+
+A full-featured **Django-based web app** that allows users to **create, update, and manage reservations** with authentication and modern UI.
+
+🔗 **Live Demo:** [django-reservation-system.onrender.com](https://django-reservation-system.onrender.com)  
+💻 **Repository:** [dhakalsameer/django_reservation_system](https://github.com/dhakalsameer/django_reservation_system)
+
+### ✨ Features
+- User registration and login system  
+- Create, edit, and delete reservations  
+- Secure user-based access control  
+- Beautiful responsive UI with Tailwind CSS  
+- Hosted on [Render](https://render.com) for free deployment  
+
+### 🧰 Tech Stack
+- **Backend:** Django 5, Python 3.13  
+- **Frontend:** Tailwind CSS, HTML  
+- **Database:** SQLite3  
+- **Deployment:** Render  
+
+![Django Reservation System](https://raw.githubusercontent.com/dhakalsameer/django_reservation_system/main/screenshot.png)
+
+
 [![📰 PHP Blog Project](https://img.shields.io/badge/📰%20PHP_Blog_System-PHP%2C%20MySQL%2C%20Bootstrap-orange?style=for-the-badge)](https://github.com/dhakalsameer/projectII_php_blog)  
 > A full-featured **blog CMS** with CRUD, authentication, and category management — built using **PHP**, **MySQL**, and **Bootstrap**.
 
