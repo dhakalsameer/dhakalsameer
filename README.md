@@ -16,19 +16,6 @@ A full-featured **Django-based web app** that allows users to **create, update, 
 🔗 **Live Demo:** [django-reservation-system.onrender.com](https://django-reservation-system.onrender.com)  
 💻 **Repository:** [dhakalsameer/django_reservation_system](https://github.com/dhakalsameer/django_reservation_system)
 
-### ✨ Features
-- User registration and login system  
-- Create, edit, and delete reservations  
-- Secure user-based access control  
-- Beautiful responsive UI with Tailwind CSS  
-- Hosted on [Render](https://render.com) for free deployment  
-
-### 🧰 Tech Stack
-- **Backend:** Django 5, Python 3.13  
-- **Frontend:** Tailwind CSS, HTML  
-- **Database:** SQLite3  
-- **Deployment:** Render  
-
 ![Django Reservation System](https://raw.githubusercontent.com/dhakalsameer/django_reservation_system/main/screenshot.png)
 
 
