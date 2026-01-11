@@ -73,14 +73,16 @@ A full-featured **Django-based web app** that allows users to **create, update, 
 ## 📊 GitHub Stats & Activity
 
 <p align="center">
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dhakalsameer&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dhakalsameer&layout=compact&theme=tokyonight)
-![Streak Stats](https://streak-stats.demolab.com?user=dhakalsameer&theme=tokyonight)
+  <!-- GitHub Contribution Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=dhakalsameer&show_icons=true&theme=tokyonight&hide_border=true" height="165px" />
 
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhakalsameer&layout=compact&theme=tokyonight&hide_border=true" height="165px" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=dhakalsameer&theme=tokyonight&hide_border=true" height="165px"/>
+  <!-- GitHub Streak Stats -->
+  <img src="https://streak-stats.demolab.com?user=dhakalsameer&theme=tokyonight&hide_border=true" height="165px" />
 </p>
- 
+
 ---
