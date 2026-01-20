@@ -32,7 +32,14 @@ A **dynamic personal portfolio platform** built with **Django**, featuring **dua
 
 ### 🖼️ Preview
 
-![Django Portfolio Preview](https://raw.githubusercontent.com/dhakalsameer/your-portfolio-repo/main/screenshot.png)
+### 🐧 Linux Theme
+![Linux Theme](https://raw.githubusercontent.com/dhakalsameer/django-portfolio-sameer/main/Screenshot%20from%202026-01-20%2018-02-17.png)
+
+### 🪟 Windows Theme
+![Windows Theme](https://raw.githubusercontent.com/dhakalsameer/django-portfolio-sameer/main/Screenshot%20from%202026-01-20%2018-02-24.png)
+
+![image](https://raw.githubusercontent.com/dhakalsameer/django-portfolio-sameer/main/Screenshot%20from%202026-01-20%2018-02-44.png)
+
 
 > *Linux & Windows themed UI with admin-managed dynamic content*
 
