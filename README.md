@@ -9,6 +9,30 @@
 
 Here are a few of my favorite projects that demonstrate my full-stack and backend development skills:
 
+# 🚀 Djano-Sameer Project
+
+A modern **Django** project featuring an updated **GUI admin panel** for profile management.
+---
+
+## ✨ Features
+
+- 🖥️ Modern, user-friendly admin panel  
+- 📁 Standard Django project structure for easy customization  
+- 🔐 Authentication & admin-ready user management  
+- 📦 Static and media file support
+  ---
+
+## 🖼️ Screenshots
+
+| Admin Panel | Description |
+|-------------|-------------|
+| ![Admin Panel](four.png) | Login / Dashboard |
+| ![Admin Panel](three.png) | Dashboard Overview |
+| ![Admin Panel](two.png) | Content Management |
+
+---
+---
+
 ## 🏨 Django Reservation System
 
 A full-featured **Django-based web app** that allows users to **create, update, and manage reservations** with authentication and modern UI.
