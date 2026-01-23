@@ -30,6 +30,9 @@ A modern **Django** project featuring an updated **GUI admin panel** for profile
 | ![Admin Panel](https://raw.githubusercontent.com/dhakalsameer/django-sameer-portfolio/main/two.png) | Dashboard Overview |
 | ![Admin Panel](https://raw.githubusercontent.com/dhakalsameer/django-sameer-portfolio/main/three.png) | Content Management |
 
+💻 **Repository:** [https://github.com/dhakalsameer/django-sameer-portfolio](https://github.com/dhakalsameer/django-sameer-portfolio)
+
+
 ---
 ---
 
