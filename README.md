@@ -26,9 +26,9 @@ A modern **Django** project featuring an updated **GUI admin panel** for profile
 
 | Admin Panel | Description |
 |-------------|-------------|
-| ![Admin Panel](https://raw.githubusercontent.com/dhakalsameer/django_reservation_system/main/screenshot.two.png) | Login / Dashboard |
-| ![Admin Panel](https://raw.githubusercontent.com/dhakalsameer/django_reservation_system/main/screenshot.three.png) | Dashboard Overview |
-| ![Admin Panel](https://raw.githubusercontent.com/dhakalsameer/django_reservation_system/main/screenshot.two.png) | Content Management |
+| ![Admin Panel](https://raw.githubusercontent.com/dhakalsameer/django-sameer-portfolio/main/two.png) | Login / Dashboard |
+| ![Admin Panel](https://raw.githubusercontent.com/django-sameer-portfolio/main/three.png) | Dashboard Overview |
+| ![Admin Panel](https://raw.githubusercontent.com/dhakalsameer/django-sameer-portfolio/main/four.png) | Content Management |
 
 ---
 ---
