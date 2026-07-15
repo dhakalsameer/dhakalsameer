@@ -58,22 +58,7 @@ A modern **Django** project featuring an updated **GUI admin panel** for profile
 
 
 ---
----
-
-## 🏨 Django Reservation System
-
-A full-featured **Django-based web app** that allows users to **create, update, and manage reservations** with authentication and modern UI.
-
-![Made with Python](https://img.shields.io/badge/Made%20with-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Built with Django](https://img.shields.io/badge/Built%20with-Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Deployed on Render](https://img.shields.io/badge/Deployed%20on-Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
-
-🔗 **Live Demo:** [django-reservation-system.onrender.com](https://django-reservation-system.onrender.com)  
-💻 **Repository:** [dhakalsameer/django_reservation_system](https://github.com/dhakalsameer/django_reservation_system)
-
-![Django Reservation System](https://raw.githubusercontent.com/dhakalsameer/django_reservation_system/main/screenshot.png)
-
-## 🧑‍💻 Django Portfolio Website (Linux 🐧 / Windows 🪟 UI)
+---## 🧑‍💻 Django Portfolio Website (Linux 🐧 / Windows 🪟 UI)
 
 A **dynamic personal portfolio platform** built with **Django**, featuring **dual OS-themed interfaces**, admin-controlled content, and production-ready deployment.
 
