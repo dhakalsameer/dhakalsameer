@@ -9,6 +9,30 @@
 
 Here are a few of my favorite projects that demonstrate my full-stack and backend development skills:
 
+## 🗳️ Decentralized Voting System
+
+A production-grade **Web3 voting dApp** with Solidity smart contracts, Node.js backend, React frontend, and PostgreSQL — live on Sepolia testnet.
+
+![Made with Solidity](https://img.shields.io/badge/Made%20with-Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+![React](https://img.shields.io/badge/Built%20with-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Powered%20by-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+🔗 **Live Demo:** [gu-voting.vercel.app](https://gu-voting.vercel.app)  
+💻 **Repository:** [dhakalsameer/Decentralized-Voting-System](https://github.com/dhakalsameer/Decentralized-Voting-System)
+
+### ✨ Key Features
+
+* 🔐 **MetaMask Wallet Auth** — Login via signature verification
+* 🗳️ **Multi-Position Voting** — President, Secretary, 5 General Members in one tx
+* ⚡ **Real-Time Sync** — Socket.IO instant UI updates + blockchain polling
+* 🌳 **Merkle Tree Verification** — Voter eligibility, identity, and registration codes on-chain
+* 👩 **Female GM Minimum** — Smart contract enforces ≥2 female General Members
+* 📊 **Live Analytics** — Recharts dashboard with distribution charts
+* 📧 **Email Distribution** — Resend + Gmail SMTP fallback
+
+---
+
 # 🚀 Djano-Sameer Project
 
 A modern **Django** project featuring an updated **GUI admin panel** for profile management.
