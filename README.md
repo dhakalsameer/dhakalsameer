@@ -1,7 +1,12 @@
 # 👋 Hey there, I'm Sameer Dhakal
 
-💡 Passionate **Web Developer** and **Web3 Enthusiast** who loves crafting scalable, functional, and beautiful web applications.  
-🎯 Focused on **Backend Development** using **JavaScript (Node.js)**, **Python (Flask/Django)**, and **PHP** — with a strong interest in blockchain-powered applications.  
+💡 Passionate **Web Developer, Linux Enthusiast, and Web3 Developer** who enjoys building scalable, functional, and practical applications.
+
+🎯 Focused on **Backend & Full-Stack Development** using **JavaScript (Node.js/Express), Python (Flask/Django), and PHP**, with hands-on experience building database-driven web applications.
+
+⚙️ Interested in **DevOps, Linux, Bash scripting, automation, and deployment**, with experience working with **Git, Docker, SSH, and Linux-based environments**.
+
+🔗 Exploring **Blockchain & Web3** by building decentralized applications with **Solidity, Foundry, Ethereum, ethers.js, MetaMask, and IPFS**.
 
 ---
 
