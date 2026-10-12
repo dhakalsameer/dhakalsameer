@@ -101,8 +101,9 @@ A modern **Django** project featuring an updated **GUI admin panel** for profile
 
 🌐 [**GitHub**](https://github.com/dhakalsameer)  
 💼 [**LinkedIn**](https://www.linkedin.com/in/sameer-dhakal-712b69301/)  
-📧 **sameerdhakal1234@gmail.com**
 [**Portfolio**](https://dhakalsameer.com.np)  
+📧 **sameerdhakal1234@gmail.com**
+
 
 ---
 
