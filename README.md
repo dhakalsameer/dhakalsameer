@@ -62,11 +62,6 @@ A modern **Django** project featuring an updated **GUI admin panel** for profile
 💻 **Repository:** [https://github.com/dhakalsameer/django-sameer-portfolio](https://github.com/dhakalsameer/django-sameer-portfolio)
 
 
----
----## 🧑‍💻 Django Portfolio Website (Linux 🐧 / Windows 🪟 UI)
-
-
-
 [![📰 PHP Blog Project](https://img.shields.io/badge/📰%20PHP_Blog_System-PHP%2C%20MySQL%2C%20Bootstrap-orange?style=for-the-badge)](https://github.com/dhakalsameer/projectII_php_blog)  
 > A full-featured **blog CMS** with CRUD, authentication, and category management — built using **PHP**, **MySQL**, and **Bootstrap**.
 
@@ -107,6 +102,7 @@ A modern **Django** project featuring an updated **GUI admin panel** for profile
 🌐 [**GitHub**](https://github.com/dhakalsameer)  
 💼 [**LinkedIn**](https://www.linkedin.com/in/sameer-dhakal-712b69301/)  
 📧 **sameerdhakal1234@gmail.com**
+[**Portfolio**](https://dhakalsameer.com.np)  
 
 ---
 
