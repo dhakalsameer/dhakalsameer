@@ -65,36 +65,6 @@ A modern **Django** project featuring an updated **GUI admin panel** for profile
 ---
 ---## 🧑‍💻 Django Portfolio Website (Linux 🐧 / Windows 🪟 UI)
 
-A **dynamic personal portfolio platform** built with **Django**, featuring **dual OS-themed interfaces**, admin-controlled content, and production-ready deployment.
-
-![Made with Python](https://img.shields.io/badge/Made%20with-Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![Built with Django](https://img.shields.io/badge/Built%20with-Django-092E20?style=for-the-badge\&logo=django\&logoColor=white)
-![Deployed on Render](https://img.shields.io/badge/Deployed%20on-Render-46E3B7?style=for-the-badge\&logo=render\&logoColor=white)
-
-### 🖼️ Preview
-
-### 🐧 Linux Theme
-![Linux Theme](https://raw.githubusercontent.com/dhakalsameer/django-portfolio-sameer/main/Screenshot%20from%202026-01-20%2018-02-17.png)
-
-### 🪟 Windows Theme
-![Windows Theme](https://raw.githubusercontent.com/dhakalsameer/django-portfolio-sameer/main/Screenshot%20from%202026-01-20%2018-02-24.png)
-
-![image](https://raw.githubusercontent.com/dhakalsameer/django-portfolio-sameer/main/Screenshot%20from%202026-01-20%2018-02-44.png)
-
-
-> *Linux & Windows themed UI with admin-managed dynamic content*
-
-### ✨ Key Features
-
-* Linux 🐧 / Windows 🪟 theme switching
-* Admin-managed dynamic content (projects, skills, certifications)
-* Email-enabled contact form
-* Responsive UI using Tailwind CSS
-* Production-ready Django deployment (Gunicorn + Render)
-
-
-💻 **Repository:** [https://github.com/dhakalsameer/django-portfolio-sameer](https://github.com/dhakalsameer/django-portfolio-sameer)
-
 
 
 [![📰 PHP Blog Project](https://img.shields.io/badge/📰%20PHP_Blog_System-PHP%2C%20MySQL%2C%20Bootstrap-orange?style=for-the-badge)](https://github.com/dhakalsameer/projectII_php_blog)  
